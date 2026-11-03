@@ -1,0 +1,11 @@
+backend/runtime_settings.json
+backend/data/trip_tasks
+# 部署产物与本地环境
+.env
+*.log
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+frontend/dist/
